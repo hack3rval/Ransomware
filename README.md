@@ -1,0 +1,2 @@
+# Ransomware
+SegInfor1
